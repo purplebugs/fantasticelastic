@@ -8,12 +8,11 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>A Slow Journey</>,
     imageUrl: 'img/car.png',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      Experts are not made overnight.  Enjoy the journey, one step at a time.
       </>
     ),
   },

@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Elastic Docs',
-  tagline: 'Elasticsearch documentation for total beginners',
+  title: 'Elasticsearch for Oldies',
+  tagline: 'Elasticsearch documentation for total beginners, at any age!',
   url: 'https://purplebugs.github.io/',
   baseUrl: '/elasticdocs/',
   favicon: 'img/favicon.ico',
@@ -45,20 +45,12 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'About',
           items: [
             {
               label: 'Stack Overflow',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+            }
           ],
         },
         {
@@ -70,12 +62,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/purplebugs/elasticdocs',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} purplebugs, Built with Docusaurus.`,
     },
   },
   presets: [
@@ -94,7 +86,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/purplebugs/elasticdocs/edit/source/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
