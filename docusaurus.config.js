@@ -2,7 +2,7 @@ module.exports = {
   title: 'Elastic Docs',
   tagline: 'Elasticsearch documentation for total beginners',
   url: 'https://purplebugs.github.io/',
-  baseUrl: '/',
+  baseUrl: '/elasticdocs/',
   favicon: 'img/favicon.ico',
   organizationName: 'purplebugs', // Usually your GitHub org/user name.
   projectName: 'elasticdocs', // Usually your repo name.
