@@ -48,8 +48,8 @@ module.exports = {
           title: 'About',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'About This Site',
+              to: 'blog/about',
             }
           ],
         },
