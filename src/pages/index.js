@@ -28,8 +28,8 @@ const features = [
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Metrics... bla bla test</>,
+    imageUrl: 'img/glasses.png',
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
