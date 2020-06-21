@@ -4,11 +4,11 @@ module.exports = {
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'purplebugs', // Usually your GitHub org/user name.
+  projectName: 'elasticdocs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Elastic Docs',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
