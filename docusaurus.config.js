@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Elasticsearch for Oldies',
+  title: 'Learn how to use the Elastic Stack with small, simple examples',
   tagline: 'Elasticsearch documentation for total beginners, at any age!',
   url: 'https://purplebugs.github.io/',
   baseUrl: '/elasticdocs/',
@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'elasticdocs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Elastic Docs',
+      title: 'Elasticsearch for Oldies',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.png',
