@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Elastic Docs',
+  tagline: 'Elasticsearch documentation for total beginners',
+  url: 'https://purplebugs.github.io/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'purplebugs', // Usually your GitHub org/user name.
@@ -88,7 +88,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/purplebugs/elasticdocs',
         },
         blog: {
           showReadingTime: true,
