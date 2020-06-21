@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/car.png',
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -18,22 +18,20 @@ const features = [
     ),
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>Focus on Small Wins</>,
+    imageUrl: 'img/glasses.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Make use of the small, simple use cases and code snippets with just enough in them to learning something new.
       </>
     ),
   },
   {
-    title: <>Metrics... bla bla test</>,
-    imageUrl: 'img/glasses.png',
+    title: <>Take your time</>,
+    imageUrl: 'img/sleep.png',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Learning something new is fun.  It is also hard.  After a short session, take a long nap.
       </>
     ),
   },
