@@ -1,18 +1,19 @@
 ---
-id: What is the Elastic Stack
+id: sta1
 title: What is the Elastic Stack
+sidebar_label: What is the Elastic Stack
 ---
 
 ##
-You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).
 
-export const Highlight = ({children, color}) => ( <span style={{
-      backgroundColor: color,
-      borderRadius: '2px',
-      color: '#fff',
-      padding: '0.2rem',
-    }}>{children}</span> );
+:::tip
 
-<Highlight color="#25c2a0">Docusaurus green</Highlight> and <Highlight color="#1877F2">Facebook blue</Highlight> are my favorite colors.
+The Elastic Stack refers to the entire product suite that [Elastic](https://elastic.co) makes
 
-I can write **Markdown** alongside my _JSX_!
+:::
+
+* Elasticsearch is at the heart of the product suite and is only one of the products, allowing you to search, analyze and store data
+
+* Kibana is another product which, using the data stored in Elasticsearch, is the window into the Elastic Stack
+
+There are more products, however for now this site will only go into these two
