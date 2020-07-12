@@ -4,8 +4,6 @@ title: What is the Elastic Stack
 sidebar_label: What is the Elastic Stack
 ---
 
-##
-
 :::tip
 
 The Elastic Stack refers to the entire product suite that [Elastic](https://elastic.co) makes
