@@ -1,5 +1,5 @@
 ---
-id: mdx
+id: sta1
 title: Powered by MDX
 ---
 

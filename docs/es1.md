@@ -4,16 +4,31 @@ title: Learn Elasticsearch
 sidebar_label: Learn Elasticsearch
 ---
 
-## Why
+## Why learn Elasticsearch
+
+Because Elasticsearch is an awesome, powerful search and analytics engine... is highly valued in the I.T. marketplace.
+
+Elasticsearch can also be hard, and getting started can be tricky.  I wanted to keep things ultra simple for hobbyists, and who knows, if you want to go further, please do.
+
+Most of all it is fun!
 
 
-... [About this Site](blog/2020-06-21.md) page
+:::note
+
+This is a hobby project and is in no way officially affiliated with [Elastic](https://elastic.co)
+
+I highly recommend taking Elastic's official [courses](https://www.elastic.co/training/certification) for learning the Elastic Stack or if wanting to become Elastic Certified
+
+:::
+
+See also [About this Site](../blog/about)
 
 
 ## How
 
-... examples, suggest signing up for your own Cloud account...
+This hobby site will introduce you to different data sets and show how to use Elasticsearch to make them searchable, helping you organise and analyse your data in meaningful ways.
 
+It will also show you how to create visualisations to present your data in fun, clever and intuitive ways.
 
 
 ## But I don't know anything about programming!!
@@ -25,44 +40,7 @@ Doesn't matter.  If some terms are not familiar, don't worry for now and enjoy r
 
 Doesn't matter.  An example of a data set could be a list of your favourite books.  No big deal.
 
-This hobby site will introduce you to different data sets and how to use Elasticsearch to make them searchable, help you organise them however you wish, and even create visualisations to present the data in an intuitive way, instead of a written list of text.
-
 
 ## But I don't know anything about Elasticsearch!!
 
 Neither did I when I started.  So what.
-
-
-
-
-
-
-:::note
-
-This is a note
-
-:::
-
-:::tip
-
-This is a tip
-
-:::
-
-:::important
-
-This is important
-
-:::
-
-:::caution
-
-This is a caution
-
-:::
-
-:::warning
-
-This is a warning
-
-:::
