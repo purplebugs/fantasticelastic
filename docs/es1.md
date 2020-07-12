@@ -6,7 +6,7 @@ sidebar_label: Learn Elasticsearch
 
 ## Why learn Elasticsearch
 
-Because Elasticsearch is an awesome, powerful search and analytics engine... is highly valued in the I.T. marketplace.
+Because Elasticsearch is an awesome, powerful search and analytics engine... and is highly valued in the I.T. marketplace.
 
 Elasticsearch can also be hard, and getting started can be tricky.  I wanted to keep things ultra simple for hobbyists, and who knows, if you want to go further, please do.
 
