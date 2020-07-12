@@ -13,7 +13,7 @@ Elasticsearch can also be hard, and getting started can be tricky.  I wanted to 
 Most of all it is fun!
 
 
-:::note
+:::tip
 
 This is a hobby project and is in no way officially affiliated with [Elastic](https://elastic.co)
 
@@ -21,7 +21,7 @@ I highly recommend taking Elastic's official [courses](https://www.elastic.co/tr
 
 :::
 
-See also [About this Site](../blog/about)
+See also [About this Site: Purpose](../blog/about#Purpose)
 
 
 ## How
