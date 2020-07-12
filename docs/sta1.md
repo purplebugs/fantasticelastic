@@ -1,8 +1,9 @@
 ---
-id: sta1
-title: Powered by MDX
+id: What is the Elastic Stack
+title: What is the Elastic Stack
 ---
 
+##
 You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).
 
 export const Highlight = ({children, color}) => ( <span style={{

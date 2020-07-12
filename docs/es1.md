@@ -10,10 +10,10 @@ Because Elasticsearch is an awesome, powerful search and analytics engine... and
 
 Elasticsearch can also be hard, and getting started can be tricky.  I wanted to keep things ultra simple for hobbyists, and who knows, if you want to go further, please do.
 
-Most of all it is fun!
+Most of all it  is fun!
 
 
-:::tip
+:::note
 
 This is a hobby project and is in no way officially affiliated with [Elastic](https://elastic.co)
 
@@ -26,7 +26,7 @@ See also [About this Site: Purpose](../blog/about#Purpose)
 
 ## How
 
-This hobby site will introduce you to different data sets and show how to use Elasticsearch to make them searchable, helping you organise and analyse your data in meaningful ways.
+This hobby site will introduce you to different data sets and show how to use Elasticsearch to make data searchable helping you organise and analyse your data in meaningful ways.
 
 It will also show you how to create visualisations to present your data in fun, clever and intuitive ways.
 
