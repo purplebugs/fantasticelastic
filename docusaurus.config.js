@@ -1,68 +1,68 @@
 module.exports = {
-  title: 'Learn how to use the Elastic Stack with small, simple examples',
-  tagline: 'Elasticsearch documentation for total beginners, at any age!',
-  url: 'https://purplebugs.github.io/',
-  baseUrl: '/elasticdocs/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'purplebugs', // Usually your GitHub org/user name.
-  projectName: 'elasticdocs', // Usually your repo name.
+  title: "Learn how to use the Elastic Stack with small, simple examples",
+  tagline: "Elasticsearch documentation for total beginners, at any age!",
+  url: "https://purplebugs.github.io/",
+  baseUrl: "/elasticdocs/",
+  favicon: "img/favicon.ico",
+  organizationName: "purplebugs", // Usually your GitHub org/user name.
+  projectName: "elasticdocs", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Elasticsearch for Oldies',
+      title: "Elasticsearch for Fun",
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.png',
+        alt: "My Site Logo",
+        src: "img/logo.png",
       },
       links: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
+          to: "docs/",
+          activeBasePath: "docs",
+          label: "Docs",
+          position: "left",
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: "blog", label: "Blog", position: "left" },
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          href: "https://github.com/facebook/docusaurus",
+          label: "GitHub",
+          position: "right",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Docs',
+          title: "Docs",
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: "Style Guide",
+              to: "docs/",
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: "Second Doc",
+              to: "docs/doc2/",
             },
           ],
         },
         {
-          title: 'About',
+          title: "About",
           items: [
             {
-              label: 'About This Site',
-              to: 'blog/about',
-            }
+              label: "About This Site",
+              to: "blog/about",
+            },
           ],
         },
         {
-          title: 'More',
+          title: "More",
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: "Blog",
+              to: "blog",
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/purplebugs/elasticdocs',
+              label: "GitHub",
+              href: "https://github.com/purplebugs/elasticdocs",
             },
           ],
         },
@@ -72,24 +72,23 @@ module.exports = {
   },
   presets: [
     [
-      '@docusaurus/preset-classic',
+      "@docusaurus/preset-classic",
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'es1',
-          sidebarPath: require.resolve('./sidebars.js'),
+          homePageId: "es1",
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/purplebugs/elasticdocs',
+          editUrl: "https://github.com/purplebugs/elasticdocs",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/purplebugs/elasticdocs/edit/source/website/blog/',
+            "https://github.com/purplebugs/elasticdocs/edit/source/website/blog/",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       },
     ],
