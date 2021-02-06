@@ -26,14 +26,14 @@ Though, for now there are no examples as it is a "skeleton site". "Coming soon" 
 
 Now.
 
-🙀 But I don't know anything about programming!!
+🙀 _But I don't know anything about programming!!_
 
 🌟 Doesn't matter. If some terms are not familiar, don't worry for now and enjoy reading along.
 
-😱 But I don't know anything about data or databases!!
+😱 _But I don't know anything about data or databases!!_
 
 🌟 Doesn't matter. An example of a data set could be a list of your favourite books. No big deal.
 
-🤯 But I don't know anything about Elasticsearch!!
+🤯 _But I don't know anything about Elasticsearch!!_
 
 🌟 Neither did I when I started. So what. You are a star.
