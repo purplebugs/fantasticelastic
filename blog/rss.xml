@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Learn how to use the Elastic Stack with small, simple examples Blog</title>
+        <link>https://purplebugs.github.io/blog</link>
+        <description>Learn how to use the Elastic Stack with small, simple examples Blog</description>
+        <lastBuildDate>Sun, 21 Jun 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[About this Site]]></title>
+            <link>https://purplebugs.github.io/elasticdocs/blog/about</link>
+            <guid>about</guid>
+            <pubDate>Sun, 21 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Purpose]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://purplebugs.github.io/blog</id>
+    <title>Learn how to use the Elastic Stack with small, simple examples Blog</title>
+    <updated>2020-06-21T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://purplebugs.github.io/blog"/>
+    <subtitle>Learn how to use the Elastic Stack with small, simple examples Blog</subtitle>
+    <icon>https://purplebugs.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[About this Site]]></title>
+        <id>about</id>
+        <link href="https://purplebugs.github.io/elasticdocs/blog/about"/>
+        <updated>2020-06-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose]]></summary>
+    </entry>
+</feed>
