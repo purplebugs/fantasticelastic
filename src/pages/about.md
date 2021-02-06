@@ -1,14 +1,13 @@
 ---
-slug: about
-title: About this Site
-author: Anita Lipsky
-author_title: Maintainer of Elasticseach for Oldies
-author_url: https://github.com/purplebugs
-author_image_url: https://avatars1.githubusercontent.com/u/7695311?s=460&v=4
+id: about
+title: About this site
+sidebar_label: About this site
 tags: [hello, elasticsearch, hobby]
 ---
 
-### Purpose
+# About this site
+
+## Purpose
 
 This site is made with love from the ground up for anyone who wants to understand simple use cases for the Elastic Stack
 
@@ -20,13 +19,13 @@ I highly recommend taking Elastic's official [courses](https://www.elastic.co/tr
 
 :::
 
-### About Anita
+## About Anita
 
 Anita Lipsky is an Elasticsearch fan and [Elastic Certified Engineer](https://certified.elastic.co/8c217fda-75a3-462d-9438-1a0b5853a403)
 
 Feel free to reach out on [linkedin](https://www.linkedin.com/in/anita-lipsky-506360120) or email: [anita@purplebugs.com](mailto:anita@purplebugs.com)
 
-### Why "Elasticsearch for Fun"?
+## Why "Elasticsearch for Fun"?
 
 Because learning it was mostly done as a hobby, and it is fun.
 
@@ -37,6 +36,10 @@ Besides that, seniors have so much wisdom, experience, patience and curiousity. 
 
 Though, since this site is for anyone at any age I since updated the name to be "Elasticsearch for Fun".
 
-### Credits
+## Credits
 
-Site created with [**Docusaurus 2 alpha**](https://v2.docusaurus.io/)
+Site created...
+
+- ... while listening to 80s music 🎷
+- ... with art design and graphics from ... [ TO ADD artist name/link 🎨 ]
+- ... using [**Docusaurus 2 alpha**](https://v2.docusaurus.io/)
