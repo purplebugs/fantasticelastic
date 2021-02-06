@@ -15,7 +15,7 @@ module.exports = {
       },
       items: [
         {
-          to: "docs/",
+          to: "/",
           activeBasePath: "docs",
           label: "Docs",
           position: "left",
@@ -36,11 +36,11 @@ module.exports = {
           items: [
             {
               label: "Style Guide",
-              to: "docs/",
+              to: "/",
             },
             {
-              label: "Second Doc",
-              to: "docs/doc2/",
+              label: "Kibana",
+              to: "kib1",
             },
           ],
         },
@@ -76,7 +76,7 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: "es1",
+          routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl: "https://github.com/purplebugs/elasticdocs",

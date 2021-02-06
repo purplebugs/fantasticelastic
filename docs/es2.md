@@ -9,4 +9,3 @@ sidebar_label: What is Elasticsearch
 Elasticsearch allows you to search, analyze and store data
 
 :::
-
