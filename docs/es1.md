@@ -16,11 +16,13 @@ Because Elasticsearch...
 
 ## How
 
-This hobby site will introduce you to different data sets and show how to use Elasticsearch to make data searchable helping you organise and analyse your data in meaningful ways.
+This hobby site will introduce you to different data sets and show how to use Elasticsearch to make data searchable helping you organise and analyse your data in meaningful ways 🔦
 
-It will also show you how to create visualisations to present your data in fun, clever and intuitive ways.
+It will also show you how to create visualisations to present your data in fun, clever and intuitive ways 📊
 
-Though, for now there are no examples as it is a "skeleton site". "Coming soon" as they say...
+Though, for now there are no examples as it is a "skeleton site" 😇
+
+"Coming soon" as they say... 😅
 
 ## When
 
