@@ -1,4 +1,5 @@
 ---
+slug: /
 id: es1
 title: Learn Elasticsearch
 sidebar_label: Learn Elasticsearch
@@ -19,8 +20,6 @@ This is a hobby project and is in no way officially affiliated with [Elastic](ht
 I highly recommend taking Elastic's official [courses](https://www.elastic.co/training/certification) for learning the Elastic Stack or if wanting to become Elastic Certified
 
 :::
-
-See also [About this Site: Purpose](../blog/about#Purpose)
 
 ## How
 
