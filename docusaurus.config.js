@@ -8,7 +8,7 @@ module.exports = {
   projectName: "elasticdocs", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "Elasticsearch for Fun",
+      title: "Fantastic Elastic",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.png",
@@ -20,7 +20,6 @@ module.exports = {
           label: "Docs",
           position: "left",
         },
-        { to: "blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/facebook/docusaurus",
           label: "GitHub",
@@ -35,7 +34,7 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Style Guide",
+              label: "Elasticsearch",
               to: "/",
             },
             {
@@ -49,17 +48,13 @@ module.exports = {
           items: [
             {
               label: "About This Site",
-              to: "blog/about",
+              to: "/about",
             },
           ],
         },
         {
           title: "More",
           items: [
-            {
-              label: "Blog",
-              to: "blog",
-            },
             {
               label: "GitHub",
               href: "https://github.com/purplebugs/elasticdocs",
