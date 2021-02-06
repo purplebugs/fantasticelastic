@@ -11,6 +11,10 @@ tags: [hello, elasticsearch, hobby]
 
 This site is made with love from the ground up for anyone who wants to understand simple use cases for the Elastic Stack
 
+Elasticsearch can be hard, and I found getting started to be tricky.
+
+I challenged myself to create the site I wish I had when I was getting started, and this is it... always changing and evolving, just like life, like myself, and like Elasticsearch.
+
 :::note
 
 This is a hobby project and is in no way officially affiliated with [Elastic](https://elastic.co)

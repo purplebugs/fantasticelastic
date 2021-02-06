@@ -7,11 +7,12 @@ sidebar_label: Learn Elasticsearch
 
 ## Why
 
-Because Elasticsearch is an awesome, powerful search and analytics engine... and is highly valued in the I.T. marketplace.
+Because Elasticsearch...
 
-Elasticsearch can also be hard, and getting started can be tricky. I wanted to keep things ultra simple for hobbyists, and who knows, if you want to go further, please do.
-
-Most of all it is fun!
+- is fun!
+- is an awesome, powerful search and analytics engine
+- knowledge is highly valued in the I.T. marketplace
+- powers most search bars on the internet, is the matching "brain" behind hugly popular apps, and more [Source: Forbes 2020-09-04](https://www.forbes.com/sites/oliviergarret/2020/09/04/elastic-the-most-important-tech-company-you-havent-heard-of/)
 
 ## How
 
