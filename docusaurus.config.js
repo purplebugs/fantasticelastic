@@ -8,7 +8,7 @@ module.exports = {
   projectName: "elasticdocs", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "Elasticsearch for Fun",
+      title: "Fantastic Elastic",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.png",

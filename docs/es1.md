@@ -9,10 +9,10 @@ sidebar_label: Learn Elasticsearch
 
 Because Elasticsearch...
 
-- is fun!
-- is an awesome, powerful search and analytics engine
-- knowledge is highly valued in the I.T. marketplace
-- powers most search bars on the internet, is the matching "brain" behind hugly popular apps, and more [Source: Forbes 2020-09-04](https://www.forbes.com/sites/oliviergarret/2020/09/04/elastic-the-most-important-tech-company-you-havent-heard-of/)
+- is fun! 🛼
+- is an awesome, powerful search and analytics engine 🤖
+- knowledge is highly valued in the I.T. marketplace 🤓
+- powers most search bars on the internet, is the matching "brain" behind hugly popular apps, and more 🧠 [Source: Forbes 2020-09-04](https://www.forbes.com/sites/oliviergarret/2020/09/04/elastic-the-most-important-tech-company-you-havent-heard-of/)
 
 ## How
 

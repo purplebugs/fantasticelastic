@@ -9,11 +9,11 @@ tags: [hello, elasticsearch, hobby]
 
 ## Purpose
 
-This site is made with love from the ground up for anyone who wants to understand simple use cases for the Elastic Stack
+This site is made with love from the ground up for anyone who wants to understand simple use cases for the Elastic Stack 💜
 
-Elasticsearch can be hard, and I found getting started to be tricky.
+Elasticsearch can be hard, and I found getting started to be tricky 🤓
 
-I challenged myself to create the site I wish I had when I was getting started, and this is it... always changing and evolving, just like life, like myself, and like Elasticsearch.
+I challenged myself to create the site I wish I had when I was getting started, and this is it... always changing and evolving, just like life, like myself, and like Elasticsearch 😇
 
 :::note
 
@@ -29,21 +29,10 @@ Anita Lipsky is an Elasticsearch fan and [Elastic Certified Engineer](https://ce
 
 Feel free to reach out on [linkedin](https://www.linkedin.com/in/anita-lipsky-506360120) or email: [anita@purplebugs.com](mailto:anita@purplebugs.com)
 
-## Why "Elasticsearch for Fun"?
-
-Because learning it was mostly done as a hobby, and it is fun.
-
-The original title was "Elasticsearch for Oldies" because
-[Richard Simmons](https://en.wikipedia.org/wiki/Richard_Simmons) has always been a fun and joyfull force, spreading good health and cheer. Something about the title of his classic workouts "Sweatin' to the Oldies" always made me smile, and I wanted to re-use the word for one of my hobbies.
-
-Besides that, seniors have so much wisdom, experience, patience and curiousity. This makes seniors great candidates for learning something new, abstract, and even complex, so why not let seniors feel directly included in learning something new in tech.
-
-Though, since this site is for anyone at any age I since updated the name to be "Elasticsearch for Fun".
-
 ## Credits
 
 Site created...
 
 - ... while listening to 80s music 🎷
 - ... with art design and graphics from ... [ TO ADD artist name/link 🎨 ]
-- ... using [**Docusaurus 2 alpha**](https://v2.docusaurus.io/)
+- ... using [**Docusaurus 2 alpha**](https://v2.docusaurus.io/) 👾
