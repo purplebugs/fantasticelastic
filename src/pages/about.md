@@ -34,5 +34,16 @@ Feel free to reach out on [linkedin](https://www.linkedin.com/in/anita-lipsky-50
 Site created...
 
 - ... while listening to 80s music 🎷
+
 - ... with art design and graphics from ... [ TO ADD artist name/link 🎨 ]
+
 - ... using [**Docusaurus 2 alpha**](https://v2.docusaurus.io/) 👾
+
+## Terms of use
+
+- This site is free of charge to use
+
+- I strive for the info to be correct though I cannot guarantee full correctness at all times
+
+- License: [Attribution-NonCommercial-ShareAlike
+  CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
