@@ -4,7 +4,7 @@ module.exports = {
     "Getting data in": [
       "getting-data-in",
       "create-index",
-      "PUT-command",
+      "PUT-add-one-document",
       "PUT-update",
       "POST-bulk",
     ],

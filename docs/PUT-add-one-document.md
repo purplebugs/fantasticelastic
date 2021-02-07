@@ -1,5 +1,5 @@
 ---
-id: PUT-command
+id: PUT-add-one-document
 title: "PUT: Add one document"
 sidebar_label: "PUT: Add one document"
 ---
