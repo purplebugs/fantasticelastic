@@ -1,7 +1,7 @@
 ---
 id: PUT-command
-title: PUT command
-sidebar_label: PUT command
+title: "PUT: Add one document"
+sidebar_label: "PUT: Add one document"
 ---
 
 To store data inside Elasticsearch

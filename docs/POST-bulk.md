@@ -1,7 +1,7 @@
 ---
 id: POST-bulk
-title: Adding several documents at once
-sidebar_label: POST in bulk
+title: "POST: Add several documents at once"
+sidebar_label: "POST: Add several documents at once"
 ---
 
 To add two more documents to the same index `eighties_movies` we can do this using the `POST` and `_bulk` command
