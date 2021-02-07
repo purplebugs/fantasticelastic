@@ -6,7 +6,8 @@ sidebar_label: PUT command
 
 To store data inside Elasticsearch
 
-- run this PUT command using DevTools [TODO - link to What is DevTools / Environment setup]
+- Run this `PUT` command using DevTools
+- [TODO: link to What is DevTools / Environment setup]
 
 ```
 PUT eighties_movies/_doc/1
@@ -21,3 +22,9 @@ PUT eighties_movies/_doc/1
   }
 }
 ```
+
+- This stores one _document_ with unique id `1` inside the _index_ named `eighties_movies`
+
+:::info
+Elasticsearch is a _document store_
+:::
