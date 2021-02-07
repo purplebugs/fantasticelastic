@@ -9,5 +9,3 @@ To search for all documents in one index, run a `SEARCH` command
 ```
 GET eighties_movies/_search
 ```
-
-- In our case we have only created one document, so it will only return one result
