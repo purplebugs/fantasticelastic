@@ -13,6 +13,11 @@ module.exports = {
       "GET-one-document",
       "GET-all-documents",
     ],
+    "Deleting data": [
+      "deleting-data",
+      "DELETE-one-document",
+      "DELETE-all-documents",
+    ],
     Kibana: ["kib1"],
     "Elastic Stack": ["sta1"],
   },
