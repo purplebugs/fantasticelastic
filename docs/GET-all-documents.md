@@ -1,5 +1,5 @@
 ---
-id: GET-all-in-one-index
+id: GET-all-documents
 title: GET all documents
 sidebar_label: GET all documents
 ---

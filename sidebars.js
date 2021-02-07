@@ -10,7 +10,7 @@ module.exports = {
     "Getting data out": [
       "getting-data-out",
       "GET-one-document",
-      "GET-all-in-one-index",
+      "GET-all-documents",
     ],
     Kibana: ["kib1"],
     "Elastic Stack": ["sta1"],
