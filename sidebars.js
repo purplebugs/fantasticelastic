@@ -4,13 +4,19 @@ module.exports = {
     "Getting data in": [
       "getting-data-in",
       "create-index",
-      "PUT-command",
+      "PUT-add-one-document",
+      "PUT-update",
       "POST-bulk",
     ],
     "Getting data out": [
       "getting-data-out",
       "GET-one-document",
-      "GET-all-in-one-index",
+      "GET-all-documents",
+    ],
+    "Deleting data": [
+      "deleting-data",
+      "DELETE-one-document",
+      "DELETE-all-documents",
     ],
     Kibana: ["kib1"],
     "Elastic Stack": ["sta1"],
