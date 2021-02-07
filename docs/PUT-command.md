@@ -4,8 +4,9 @@ title: PUT command
 sidebar_label: PUT command
 ---
 
-To store data inside Elasticsearch, run this PUT command
-Run this command using DevTools [TODO - link to What is DevTools / Environment setup]
+To store data inside Elasticsearch
+
+- run this PUT command using DevTools [TODO - link to What is DevTools / Environment setup]
 
 ```
 PUT eighties_movies/_doc/1
