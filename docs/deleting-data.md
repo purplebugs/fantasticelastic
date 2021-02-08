@@ -8,7 +8,7 @@ To delete documents from an index run the `DELETE` command
 
 :::caution
 
-Warning! This will actually delete all the data from your index
+This will actually delete the data from your index
 
 If you are following along these simple tutorials, no problem as you can simply re run the commands to add the documents again
 
