@@ -2,10 +2,10 @@ module.exports = {
   title: "Learn how to use the Elastic Stack with small, simple examples",
   tagline: "Elasticsearch documentation for total beginners, at any age!",
   url: "https://purplebugs.github.io/",
-  baseUrl: "/elasticdocs/",
+  baseUrl: "/fantasticelastic/",
   favicon: "img/favicon.ico",
   organizationName: "purplebugs", // Usually your GitHub org/user name.
-  projectName: "elasticdocs", // Usually your repo name.
+  projectName: "fantasticelastic", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "Fantastic Elastic",
@@ -57,7 +57,7 @@ module.exports = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/purplebugs/elasticdocs",
+              href: "https://github.com/purplebugs/fantasticelastic",
             },
           ],
         },
@@ -74,13 +74,13 @@ module.exports = {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/purplebugs/elasticdocs",
+          editUrl: "https://github.com/purplebugs/fantasticelastic",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            "https://github.com/purplebugs/elasticdocs/edit/source/website/blog/",
+            "https://github.com/purplebugs/fantasticelastic/edit/source/website/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
