@@ -8,7 +8,7 @@ To search for one document that is stored, run a `DELETE` command with the speci
 
 :::caution
 
-Warning! This will actually delete the document from your index
+This will actually delete the document from your index
 
 If you are following along these simple tutorials, no problem as you can simply re run the command to add the document again
 
