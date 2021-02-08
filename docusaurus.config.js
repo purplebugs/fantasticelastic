@@ -2,7 +2,7 @@ module.exports = {
   title: "Learn how to use the Elastic Stack with small, simple examples",
   tagline: "Elasticsearch documentation for total beginners, at any age!",
   url: "https://purplebugs.github.io/",
-  baseUrl: "/fantasticelastic/",
+  baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "purplebugs", // Usually your GitHub org/user name.
   projectName: "fantasticelastic", // Usually your repo name.
