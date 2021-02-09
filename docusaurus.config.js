@@ -64,6 +64,11 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} purplebugs, Built with Docusaurus.`,
     },
+    gtag: {
+      trackingID: "G-62388ZZQNS",
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
   },
   presets: [
     [
