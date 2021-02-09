@@ -12,6 +12,8 @@ POST eighties_movies/_bulk
 {"title":"Back to the Future","category":"Comedy","released":"July 3, 1985","star":{"first_name":"Michael J.","last_name":"Fox","character":"Marty"}}
 {"index":{"_id":3}}
 {"title":"Working Girl","category":"Comedy","released":"December 26, 1988","star":{"first_name":"Melanie","last_name":"Griffith","character":"Tess"}}
+{"index":{"_id":4}}
+{"title":"E.T","category":"Science Fiction","released":"June 23, 1982", "star": {"first_name":"Henr", "character":"Elliott"}}
 ```
 
 - This stores two more _documents_ with unique ids `2` and `3` inside the _index_ named `eighties_movies`

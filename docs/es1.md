@@ -12,17 +12,20 @@ Because Elasticsearch...
 - is fun! 🛼
 - is an awesome, powerful search and analytics engine 🤖
 - knowledge is highly valued in the I.T. marketplace 🤓
-- powers most search bars on the internet, is the matching "brain" behind hugly popular apps, and more 🧠 [Source: Forbes 2020-09-04](https://www.forbes.com/sites/oliviergarret/2020/09/04/elastic-the-most-important-tech-company-you-havent-heard-of/)
+
+:::info
+
+Elasticsearch powers most search bars on the internet, is the matching "brain" behind hugly popular apps, and more 🧠 [Source: Forbes 2020-09-04](https://www.forbes.com/sites/oliviergarret/2020/09/04/elastic-the-most-important-tech-company-you-havent-heard-of/)
+
+:::
 
 ## How
 
-This hobby site will introduce you to different data sets and show how to use Elasticsearch to make data searchable helping you organise and analyse your data in meaningful ways 🔦
+This hobby site will...
 
-It will also show you how to create visualisations to present your data in fun, clever and intuitive ways 📊
-
-Though, for now there are no examples as it is a "skeleton site" 😇
-
-"Coming soon" as they say... 😅
+- introduce you to simple data sets to show how to use Elasticsearch to make data searchable 🔦
+- introduce concepts that allow you organise and analyse your data in meaningful ways 📊
+- start tiny and blossom over time 🪴
 
 ## When
 
