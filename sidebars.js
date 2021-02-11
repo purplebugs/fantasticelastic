@@ -13,6 +13,7 @@ module.exports = {
       "getting-data-out",
       "GET-one-document",
       "GET-all-documents",
+      "GET-match",
     ],
     "Deleting data": [
       "deleting-data",
