@@ -17,9 +17,10 @@ module.exports = {
         {
           to: "/",
           activeBasePath: "docs",
-          label: "Docs",
+          label: "Elasticsearch Quickstart",
           position: "left",
         },
+        { label: "About", to: "/about" },
         {
           href: "https://github.com/facebook/docusaurus",
           label: "GitHub",
@@ -34,7 +35,7 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Elasticsearch",
+              label: "Elasticsearch Quickstart",
               to: "/",
             },
             {

@@ -1,7 +1,7 @@
 module.exports = {
   Elasticsearch_Quickstart: {
     "Elasticsearch Quickstart": [
-      { "Learn Elasticsearch": ["es1", "es2"] },
+      { "Learn Elasticsearch": ["es1", "es2", "sta1"] },
       {
         "Getting Data In": [
           "getting-data-in",
@@ -29,6 +29,5 @@ module.exports = {
       },
     ],
     Kibana: ["kib1"],
-    "Elastic Stack": ["sta1"],
   },
 };
