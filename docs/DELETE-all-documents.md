@@ -1,7 +1,7 @@
 ---
 id: DELETE-all-documents
 title: DELETE all documents
-sidebar_label: DELETE all documents
+sidebar_label: "DELETE: all documents"
 ---
 
 To delete all documents in one index, run a `DELETE` command

@@ -16,4 +16,4 @@ POST eighties_movies/_bulk
 {"title":"E.T","category":"Science Fiction","released":"June 23, 1982", "star": {"first_name":"Henr", "character":"Elliott"}}
 ```
 
-- This stores two more _documents_ with unique ids `2` and `3` inside the _index_ named `eighties_movies`
+- This stores three more _documents_ with unique ids `2`, `3` and `4` inside the _index_ named `eighties_movies`

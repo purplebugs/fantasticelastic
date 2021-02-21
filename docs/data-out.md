@@ -1,7 +1,7 @@
 ---
 id: getting-data-out
 title: Getting Data Out
-sidebar_label: Getting data out
+sidebar_label: GETTING DATA OUT
 ---
 
 Getting data out means to retrieve some data that has already been stored in Elasticsearch
