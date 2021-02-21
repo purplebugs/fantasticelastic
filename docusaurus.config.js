@@ -62,6 +62,10 @@ module.exports = {
           title: "More",
           items: [
             {
+              href: "https://ko-fi.com/anitalipsky",
+              label: "Buy me a coffee ☕️",
+            },
+            {
               label: "GitHub",
               href: "https://github.com/purplebugs/fantasticelastic",
             },
