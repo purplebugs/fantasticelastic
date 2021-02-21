@@ -1,7 +1,7 @@
 ---
 id: deleting-data
 title: Deleting data
-sidebar_label: DELETING DATA
+sidebar_label: Deleting data
 ---
 
 To delete documents from an index run the `DELETE` command
