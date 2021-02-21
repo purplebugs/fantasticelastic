@@ -22,7 +22,12 @@ module.exports = {
         },
         { label: "About", to: "/about" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://ko-fi.com/anitalipsky",
+          label: "Buy me a coffee ☕️",
+          position: "right",
+        },
+        {
+          href: "https://github.com/purplebugs/fantasticelastic",
           label: "GitHub",
           position: "right",
         },
