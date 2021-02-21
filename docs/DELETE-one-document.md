@@ -1,7 +1,7 @@
 ---
 id: DELETE-one-document
 title: DELETE one document
-sidebar_label: DELETE one document
+sidebar_label: "DELETE: one document"
 ---
 
 To search for one document that is stored, run a `DELETE` command with the specific document number

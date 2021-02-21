@@ -1,7 +1,7 @@
 ---
 id: GET-match
 title: GET documents that match a value
-sidebar_label: GET documents that match a value
+sidebar_label: "GET: documents that match a value"
 ---
 
 To search for one document that is stored, run a `GET` command with `match`
