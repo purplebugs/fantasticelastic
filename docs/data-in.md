@@ -1,7 +1,7 @@
 ---
 id: getting-data-in
 title: Getting Data In
-sidebar_label: GETTING DATA IN
+sidebar_label: Getting Data In
 ---
 
 With Elasticsearch we always first need to get data into Elasticsearch
