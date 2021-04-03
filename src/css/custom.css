@@ -29,6 +29,7 @@
   font-family: "Shrikhand", cursive;
   font-size: 150%;
   color: white;
+  text-shadow: 2px 2px #ea847b;
 }
 
 .navbar--fixed-top {
