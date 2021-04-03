@@ -11,23 +11,23 @@
 
 :root {
   --ifm-color-primary: #55b29f;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
-  --ifm-code-font-size: 95%;
+  --ifm-color-primary-dark: #55b29f;
+  --ifm-color-primary-darker: #55b29f;
+  --ifm-color-primary-darkest: #55b29f;
+  --ifm-color-primary-light: #8ce0c9;
+  --ifm-color-primary-lighter: #8ce0c9;
+  --ifm-color-primary-lightest: #8ce0c9;
+  --ifm-code-font-size: 100%;
 
-  --ifm-color-info: #94b8e9;
-  --ifm-color-success: #8ce0c9;
-  --ifm-color-warning: #fee5af;
-  --ifm-color-danger: #ffa59d;
+  --ifm-color-info: #7e9fcc;
+  --ifm-color-success: #55b29f;
+  --ifm-color-warning: #fcda90;
+  --ifm-color-danger: #ea847b;
 }
 
 .navbar__title {
   font-family: "Shrikhand", cursive;
-  font-size: 173%;
+  font-size: 150%;
   color: white;
 }
 
