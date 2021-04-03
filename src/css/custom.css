@@ -57,19 +57,10 @@ h3 {
   background-color: #7e9fcc;
 }
 
-/* TODO footer links are not white for some reason */
-.footer__link-item a:link {
-  color: white;
-}
-
-.footer__link-item a:visited {
-  color: white;
-}
-
-.footer__link-item a:hover {
-  color: white;
-}
-
-.footer__link-item a:active {
-  color: white;
+a:hover.navbar__item.navbar__link,
+a:active.navbar__item.navbar__link,
+a:hover.footer__link-item,
+a:active.footer__link-item {
+  color: #fcda90;
+  text-decoration: underline;
 }
