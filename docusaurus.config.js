@@ -23,7 +23,7 @@ module.exports = {
         { label: "About", to: "/about" },
         {
           href: "https://ko-fi.com/anitalipsky",
-          label: "Buy me a coffee ☕️",
+          label: "Buy me a cuppa tea ☕️",
           position: "right",
         },
         {
@@ -63,7 +63,7 @@ module.exports = {
           items: [
             {
               href: "https://ko-fi.com/anitalipsky",
-              label: "Buy me a coffee ☕️",
+              label: "Buy me a cuppa tea ☕️",
             },
             {
               label: "GitHub",
