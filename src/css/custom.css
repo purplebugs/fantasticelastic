@@ -6,8 +6,11 @@
  */
 
 /* You can override the default Infima variables here. */
+
+@import url("https://fonts.googleapis.com/css2?family=Shrikhand&display=swap");
+
 :root {
-  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary: #55b29f;
   --ifm-color-primary-dark: rgb(33, 175, 144);
   --ifm-color-primary-darker: rgb(31, 165, 136);
   --ifm-color-primary-darkest: rgb(26, 136, 112);
@@ -15,6 +18,32 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
+
+  --ifm-color-info: #94b8e9;
+  --ifm-color-success: #8ce0c9;
+  --ifm-color-warning: #fee5af;
+  --ifm-color-danger: #ffa59d;
+}
+
+.navbar__title {
+  font-family: "Shrikhand", cursive;
+  font-size: 173%;
+  color: white;
+}
+
+.navbar--fixed-top {
+  background-color: #7e9fcc;
+}
+
+.navbar__item {
+  color: white;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Shrikhand", cursive;
+  color: #ea847b;
 }
 
 .docusaurus-highlight-code-line {
@@ -22,4 +51,25 @@
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
+}
+
+.footer {
+  background-color: #7e9fcc;
+}
+
+/* TODO footer links are not white for some reason */
+.footer__link-item a:link {
+  color: white;
+}
+
+.footer__link-item a:visited {
+  color: white;
+}
+
+.footer__link-item a:hover {
+  color: white;
+}
+
+.footer__link-item a:active {
+  color: white;
 }
