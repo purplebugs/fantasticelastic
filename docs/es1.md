@@ -15,7 +15,7 @@ Because Elasticsearch...
 
 :::info
 
-Elasticsearch powers most search bars on the internet, is the matching "brain" behind hugly popular apps, and more 🧠 [Source: Forbes 2020-09-04](https://www.forbes.com/sites/oliviergarret/2020/09/04/elastic-the-most-important-tech-company-you-havent-heard-of/)
+Elasticsearch powers most search bars on the internet, is the matching "brain" behind hugely popular apps, and more 🧠 [Source: Forbes 2020-09-04](https://www.forbes.com/sites/oliviergarret/2020/09/04/elastic-the-most-important-tech-company-you-havent-heard-of/)
 
 :::
 
