@@ -8,6 +8,7 @@
 /* You can override the default Infima variables here. */
 
 @import url("https://fonts.googleapis.com/css2?family=Shrikhand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Limelight&display=swap");
 
 :root {
   --ifm-color-primary: #55b29f;
@@ -26,7 +27,7 @@
 }
 
 .navbar__title {
-  font-family: "Shrikhand", cursive;
+  font-family: "Limelight", cursive;
   font-size: 150%;
   color: white;
   text-shadow: 2px 2px #ea847b;
@@ -43,7 +44,7 @@ a.navbar__item {
 h1,
 h2,
 h3 {
-  font-family: "Shrikhand", cursive;
+  font-family: "Limelight", cursive;
   color: #ea847b;
 }
 
