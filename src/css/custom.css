@@ -22,15 +22,15 @@
 
   --ifm-color-info: #7e9fcc;
   --ifm-color-success: #55b29f;
-  --ifm-color-warning: #ed9669;
-  --ifm-color-danger: #ed9669;
+  --ifm-color-warning: #ea847b;
+  --ifm-color-danger: #ea847b;
 }
 
 .navbar__title {
   font-family: "Limelight", cursive;
   font-size: 150%;
   color: white;
-  text-shadow: 2px 2px #ed9669;
+  text-shadow: 2px 2px #ea847b;
 }
 
 .navbar--fixed-top {
@@ -45,7 +45,7 @@ h1,
 h2,
 h3 {
   font-family: "Limelight", cursive;
-  color: #ed9669;
+  color: #ea847b;
 }
 
 .docusaurus-highlight-code-line {
