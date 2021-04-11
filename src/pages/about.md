@@ -23,6 +23,8 @@ I highly recommend taking Elastic's official [courses](https://www.elastic.co/tr
 
 :::
 
+![FantasticElasticCircleLogo](../../static/img/FantasticElasticCircleLogo.png)
+
 ## About Anita
 
 Anita Lipsky is an Elasticsearch fan and [Elastic Certified Engineer](https://certified.elastic.co/8c217fda-75a3-462d-9438-1a0b5853a403)

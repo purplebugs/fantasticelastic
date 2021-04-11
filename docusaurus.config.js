@@ -11,7 +11,7 @@ module.exports = {
       title: "Fantastic Elastic",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.png",
+        src: "img/skate.png",
       },
       items: [
         {
