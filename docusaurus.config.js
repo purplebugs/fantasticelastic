@@ -10,7 +10,7 @@ module.exports = {
     navbar: {
       title: "Fantastic Elastic",
       logo: {
-        alt: "My Site Logo",
+        alt: "roller skate icon",
         src: "img/skate.png",
       },
       items: [
