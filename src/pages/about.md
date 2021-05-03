@@ -37,8 +37,6 @@ Site created...
 
 - ... while listening to 80s music 🎷
 
-- ... with art design and graphics from ... [ TO ADD artist name/link 🎨 ]
-
 - ... using [**Docusaurus 2 alpha**](https://v2.docusaurus.io/) 👾
 
 ## Terms of use
